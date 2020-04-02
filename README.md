@@ -3,12 +3,16 @@
 University project for a deep learning class. \
 The goal is to use Generative Adversarial Networks to draw Pokemon sprites.
 
+![alt text](./examples/results_DCGAN.png)
+
 ## Content
 
 In this repository you will find under the `src` folder some notebooks that are runnable with jupyter or google collab. \
 It's advised to have at least one GPU on your machine in order to speed up the training
 
 ## Data
+
+![alt text](./examples/data_example.png)
 
 We use individual Pokemon sprites that have been processed to be usable by our training scripts. They can be found in this [repository](https://github.com/DonaCrio/Pokemon-dataset).
 
